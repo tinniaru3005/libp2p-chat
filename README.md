@@ -19,7 +19,7 @@ This project implements a peer-to-peer chat application using `libp2p`. The appl
 1. **Clone the Repository:**
 
    ```
-   git clone https://github.com/tinniaru3005/p2p-chat-app.git
+   git clone https://github.com/tinniaru3005/libp2p-chat.git
    cd p2p-chat-app
    ```
 
