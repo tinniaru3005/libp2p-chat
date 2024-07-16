@@ -4,7 +4,7 @@ This project implements a peer-to-peer chat application using `libp2p`. The appl
 
 ## Tech Used
 
-- Node.js
+- `Node.js`
 - `libp2p`
 - `pull-stream`
 - `chalk`
